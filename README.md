@@ -22,3 +22,4 @@ T - Lock view from moving with cursor
 S - View ship info (was present in a previous version but I had disabled it for some reason)  
 C - View map  
 R - Reset game  
+F4 - Fullscreen  
