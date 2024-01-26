@@ -16,4 +16,4 @@ Used music from FTL: Faster Than Light as placeholder tracks, which have been re
 LMB - Accelerate in direction
 1, 2, 3 - Use weapons
 S - View ship info (was present in a previous version but I had disabled it for some reason)
-C - View star map
+C - View map
