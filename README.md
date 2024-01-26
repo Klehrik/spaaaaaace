@@ -5,7 +5,8 @@ Originally created in **March/April 2021**.
 ![Showcase of spaaaaaace](https://github.com/Klehrik/spaaaaaace/assets/78520710/6358b664-8107-4d62-b5ac-e2751cd94470)
 
 
-This was my first attempt at making an open-world space exploration game, where you could travel to different systems, customize the weapons/equipment of your ship, and make allies and enemies of various factions.
+This was my first attempt at making an open-world space exploration game, where you could travel to different systems, customize the weapons/equipment of your ship, and make allies and enemies of various factions.  
+At some point, I decided that my original idea was too ambitious, and the codebase was becoming unmaintainable for me.
 
 Used music from FTL: Faster Than Light as placeholder tracks, which have been replaced on uploading here for copyright reasons.
 
