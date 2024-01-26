@@ -6,7 +6,8 @@ Originally created in **March/April 2021**.
 
 
 This was my first attempt at making an open-world space exploration game, where you could travel to different systems, customize the weapons/equipment of your ship, and make allies and enemies of various factions.  
-At some point, I decided that my original idea was too ambitious, and the codebase was becoming unmaintainable for me.
+At some point, I decided that my original idea was too ambitious, and the codebase was becoming unmaintainable for me.  
+Superseded by [new spaaaaace](https://github.com/Klehrik/new-spaaaaace).
 
 Used music from FTL: Faster Than Light as placeholder tracks, which have been replaced on uploading here for copyright reasons.
 
